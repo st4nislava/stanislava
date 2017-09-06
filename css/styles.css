@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: url("https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/20690276_10213955211417057_21671623235007367_o.jpg?oh=13fee7414459ae3550f26d7ce215946f&oe=5A20DBDF") no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: helvetica;
+}
+  
+p {
+    font-size: 22px;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    background-color: #588699;
+    color: white;
+}
+  
+img {
+    width: 200px;
+    margin-top: 55px;
+}
